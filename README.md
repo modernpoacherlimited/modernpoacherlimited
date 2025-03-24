@@ -35,7 +35,7 @@ Both [`shinkansen-cogs`](https://github.com/modernpoacher/shinkansen-cogs) and [
 - The [React](https://github.com/modernpoacher/zashiki-react-redux-ui) implementation uses Ajax requests
 - The [GDS](https://github.com/modernpoacher/zashiki-govuk-frontend-ui) implementation does not use Ajax at all and _instead_ depends on `HTTP` `GET` and `POST` requests
 
-**Zashiki** must be used in conjunction with **Karakuri** (or another service implementing the same `API`) so you won't be able to clone and start the apps but feel free to look at the code.
+**Zashiki** must be used in conjunction with **Karakuri** (or another service implementing the same `API`) so you might be able to clone and start the apps but they will fail. Feel free to explore the code.
 
 ### React and Node
 
