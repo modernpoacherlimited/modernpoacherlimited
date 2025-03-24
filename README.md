@@ -16,7 +16,7 @@ My [CV is available on Dropbox](https://www.dropbox.com/scl/fi/p7xxztow6wmkrvjlh
 
 The [Modern Poacher](https://github.com/modernpoacher) organisation has projects which are related to or derived from the **Zashiki Karakuri** platform.
 
-The [Sequence Media](https://github.com/sequencemedia) organisation has the majority of my public projects.
+The [Sequence Media](https://github.com/sequencemedia) organisation has the majority of my _public_ projects.
 
 Several projects for **Modern Poacher** (including the Back Office **Karakuri** app) are _private_.
 
